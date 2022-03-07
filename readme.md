@@ -13,6 +13,9 @@
 
 Use this repository as a GitHub template or use degit to clone to your machine with an empty git history:
 `npx degit shihab-dot-dev/vite-vanilla-booster.git#master my-app`
+
+## If you are using github cli u can create repo using this command
+`gh repo create <repo-name>`
 ## TODO :
 *  .env file support
 *  consider adding `PWA `
